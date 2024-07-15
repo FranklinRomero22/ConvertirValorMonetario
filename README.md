@@ -25,9 +25,9 @@ Finalización:
 Selecciona "Salir" para terminar la aplicación.
 
 Estructura del Proyecto
--El proyecto está estructurado de la siguiente manera:
 
--Main.java: Gestiona la interfaz de consola y las opciones de usuario.
--CurrencyConverter.java: Realiza las solicitudes a la API y realiza las conversiones de divisas.
--ApiResponse.java: Clase que modela la respuesta JSON de la API.
--gson-2.8.8.jar: Biblioteca Gson para el manejo de JSON.
+
+- Main.java: Gestiona la interfaz de consola y las opciones de usuario.
+- CurrencyConverter.java: Realiza las solicitudes a la API y realiza las conversiones de divisas.
+- ApiResponse.java: Clase que modela la respuesta JSON de la API.
+- gson-2.8.8.jar: Biblioteca Gson para el manejo de JSON.
