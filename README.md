@@ -1,13 +1,13 @@
-#Conversor de Divisas con ExchangeRate-API
+# Conversor de Divisas con ExchangeRate-API
 Este proyecto Java permite convertir diferentes divisas utilizando la API de ExchangeRate-API. Permite realizar conversiones entre dólares estadounidenses (USD) y varias otras monedas como el Lempira Hondureño (HNL), el Peso Argentino (ARS), y el Real Brasileño (BRL).
 
-##Requisitos
+## Requisitos
 Java 17
 Biblioteca Gson para el manejo de JSON (incluida en el proyecto)
 ##Configuración
 Antes de comenzar, asegúrate de tener una clave de API válida de ExchangeRate-API. Sustituye "TU_API_KEY" en CurrencyConverter.java con tu propia clave de API.
 
-#Uso
+# Uso
 Ejecución de la aplicación:
 
 Compila y ejecuta Main.java.
